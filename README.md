@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/rajeevranjan20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rajeevranjan20/LeetCode/tree/master/0008-string-to-integer-atoi) |
+## Array
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rajeevranjan20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rajeevranjan20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
