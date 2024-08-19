@@ -80,16 +80,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/rajeevranjan20/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/rajeevranjan20/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
 |  |
 | ------- |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/rajeevranjan20/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajeevranjan20/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Graph
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/rajeevranjan20/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
