@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rajeevranjan20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
 | [2487-optimal-partition-of-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2487-optimal-partition-of-string) |
 ## Math
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rajeevranjan20/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/rajeevranjan20/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
 | [0974-reorder-data-in-log-files](https://github.com/rajeevranjan20/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [2470-removing-stars-from-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2487-optimal-partition-of-string) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rajeevranjan20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
 | [0974-reorder-data-in-log-files](https://github.com/rajeevranjan20/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1240-stone-game-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1240-stone-game-ii) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
 | [0974-reorder-data-in-log-files](https://github.com/rajeevranjan20/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajeevranjan20/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Trie
@@ -82,18 +86,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/rajeevranjan20/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/rajeevranjan20/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/rajeevranjan20/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
