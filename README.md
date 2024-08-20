@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajeevranjan20/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0560-subarray-sum-equals-k](https://github.com/rajeevranjan20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
+| [0772-construct-quad-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0974-reorder-data-in-log-files](https://github.com/rajeevranjan20/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1240-stone-game-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1240-stone-game-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0772-construct-quad-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/0772-construct-quad-tree) |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/1380-number-of-closed-islands) |
 ## Two Pointers
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajeevranjan20/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0772-construct-quad-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -138,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajeevranjan20/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0772-construct-quad-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/0772-construct-quad-tree) |
 <!---LeetCode Topics End-->
