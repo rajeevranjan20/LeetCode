@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/rajeevranjan20/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -121,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1240-stone-game-ii) |
+## Tree
+|  |
+| ------- |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
