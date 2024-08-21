@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/rajeevranjan20/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/rajeevranjan20/LeetCode/tree/master/0664-strange-printer) |
+| [1020-longest-turbulent-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1130-last-stone-weight-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1240-stone-game-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1240-stone-game-ii) |
 | [2530-minimize-maximum-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2530-minimize-maximum-of-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
 | [0772-construct-quad-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0974-reorder-data-in-log-files](https://github.com/rajeevranjan20/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [1020-longest-turbulent-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1130-last-stone-weight-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1240-stone-game-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1240-stone-game-ii) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajeevranjan20/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0772-construct-quad-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/0772-construct-quad-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1020-longest-turbulent-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
