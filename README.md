@@ -162,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/rajeevranjan20/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/rajeevranjan20/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
