@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajeevranjan20/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/rajeevranjan20/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajeevranjan20/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/rajeevranjan20/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/rajeevranjan20/LeetCode/tree/master/1894-merge-strings-alternately) |
