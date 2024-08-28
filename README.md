@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/rajeevranjan20/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/rajeevranjan20/LeetCode/tree/master/0664-strange-printer) |
 | [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
+| [0874-backspace-string-compare](https://github.com/rajeevranjan20/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0974-reorder-data-in-log-files](https://github.com/rajeevranjan20/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/rajeevranjan20/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -140,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/rajeevranjan20/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rajeevranjan20/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajeevranjan20/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0874-backspace-string-compare](https://github.com/rajeevranjan20/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/rajeevranjan20/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajeevranjan20/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0874-backspace-string-compare](https://github.com/rajeevranjan20/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1708-design-parking-system](https://github.com/rajeevranjan20/LeetCode/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajeevranjan20/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/rajeevranjan20/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/rajeevranjan20/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/rajeevranjan20/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/rajeevranjan20/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
