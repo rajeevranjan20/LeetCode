@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/rajeevranjan20/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
 | [0816-design-hashset](https://github.com/rajeevranjan20/LeetCode/tree/master/0816-design-hashset) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajeevranjan20/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2487-optimal-partition-of-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/rajeevranjan20/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0974-reorder-data-in-log-files](https://github.com/rajeevranjan20/LeetCode/tree/master/0974-reorder-data-in-log-files) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/rajeevranjan20/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1031-add-to-array-form-of-integer](https://github.com/rajeevranjan20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1130-last-stone-weight-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1240-stone-game-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/rajeevranjan20/LeetCode/tree/master/1325-path-with-maximum-probability) |
