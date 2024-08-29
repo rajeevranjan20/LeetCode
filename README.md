@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1240-stone-game-ii) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/rajeevranjan20/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/rajeevranjan20/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rajeevranjan20/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rajeevranjan20/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/rajeevranjan20/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/rajeevranjan20/LeetCode/tree/master/0898-transpose-matrix) |
 | [1708-design-parking-system](https://github.com/rajeevranjan20/LeetCode/tree/master/1708-design-parking-system) |
+| [1806-count-of-matches-in-tournament](https://github.com/rajeevranjan20/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Depth-First Search
