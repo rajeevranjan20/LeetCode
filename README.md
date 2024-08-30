@@ -323,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/rajeevranjan20/LeetCode/tree/master/0342-power-of-four) |
+## Database
+|  |
+| ------- |
+| [1523-capital-gainloss](https://github.com/rajeevranjan20/LeetCode/tree/master/1523-capital-gainloss) |
 <!---LeetCode Topics End-->
