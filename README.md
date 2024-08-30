@@ -328,4 +328,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1523-capital-gainloss](https://github.com/rajeevranjan20/LeetCode/tree/master/1523-capital-gainloss) |
 | [1948-rearrange-products-table](https://github.com/rajeevranjan20/LeetCode/tree/master/1948-rearrange-products-table) |
+| [2041-the-latest-login-in-2020](https://github.com/rajeevranjan20/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
