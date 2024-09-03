@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rajeevranjan20/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/rajeevranjan20/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/rajeevranjan20/LeetCode/tree/master/0342-power-of-four) |
 | [0564-find-the-closest-palindrome](https://github.com/rajeevranjan20/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rajeevranjan20/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rajeevranjan20/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/rajeevranjan20/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/rajeevranjan20/LeetCode/tree/master/0476-number-complement) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rajeevranjan20/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rajeevranjan20/LeetCode/tree/master/0342-power-of-four) |
 ## Database
 |  |
