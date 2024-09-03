@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/rajeevranjan20/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
 | [0816-design-hashset](https://github.com/rajeevranjan20/LeetCode/tree/master/0816-design-hashset) |
+| [1039-find-the-town-judge](https://github.com/rajeevranjan20/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajeevranjan20/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/rajeevranjan20/LeetCode/tree/master/1547-destination-city) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/rajeevranjan20/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1020-longest-turbulent-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1031-add-to-array-form-of-integer](https://github.com/rajeevranjan20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1039-find-the-town-judge](https://github.com/rajeevranjan20/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1130-last-stone-weight-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1130-last-stone-weight-ii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/rajeevranjan20/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/rajeevranjan20/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/rajeevranjan20/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2803-modify-graph-edge-weights](https://github.com/rajeevranjan20/LeetCode/tree/master/2803-modify-graph-edge-weights) |
