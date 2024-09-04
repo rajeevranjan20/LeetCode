@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [3055-maximum-odd-binary-number](https://github.com/rajeevranjan20/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3379-score-of-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
 | ------- |
