@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/rajeevranjan20/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/rajeevranjan20/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rajeevranjan20/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/rajeevranjan20/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rajeevranjan20/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3055-maximum-odd-binary-number](https://github.com/rajeevranjan20/LeetCode/tree/master/3055-maximum-odd-binary-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/rajeevranjan20/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajeevranjan20/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rajeevranjan20/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/rajeevranjan20/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rajeevranjan20/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/2035-count-sub-islands) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rajeevranjan20/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/rajeevranjan20/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/rajeevranjan20/LeetCode/tree/master/0645-set-mismatch) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/rajeevranjan20/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Design
 |  |
 | ------- |
@@ -398,4 +401,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/rajeevranjan20/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajeevranjan20/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/rajeevranjan20/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/rajeevranjan20/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/rajeevranjan20/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
