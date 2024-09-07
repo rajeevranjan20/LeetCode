@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/rajeevranjan20/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/rajeevranjan20/LeetCode/tree/master/0664-strange-printer) |
 | [1020-longest-turbulent-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/1020-longest-turbulent-subarray) |
+| [1117-as-far-from-land-as-possible](https://github.com/rajeevranjan20/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1130-last-stone-weight-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/rajeevranjan20/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1240-stone-game-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/rajeevranjan20/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1117-as-far-from-land-as-possible](https://github.com/rajeevranjan20/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1130-last-stone-weight-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1240-stone-game-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/rajeevranjan20/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/rajeevranjan20/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1117-as-far-from-land-as-possible](https://github.com/rajeevranjan20/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/rajeevranjan20/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1380-number-of-closed-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1558-course-schedule-iv](https://github.com/rajeevranjan20/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0898-transpose-matrix](https://github.com/rajeevranjan20/LeetCode/tree/master/0898-transpose-matrix) |
 | [1073-number-of-enclaves](https://github.com/rajeevranjan20/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1117-as-far-from-land-as-possible](https://github.com/rajeevranjan20/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1380-number-of-closed-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1677-matrix-diagonal-sum](https://github.com/rajeevranjan20/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2035-count-sub-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/2035-count-sub-islands) |
