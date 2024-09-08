@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/rajeevranjan20/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/rajeevranjan20/LeetCode/tree/master/0816-design-hashset) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/rajeevranjan20/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
