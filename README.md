@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/rajeevranjan20/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0650-2-keys-keyboard](https://github.com/rajeevranjan20/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/rajeevranjan20/LeetCode/tree/master/0664-strange-printer) |
+| [0954-maximum-sum-circular-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1117-as-far-from-land-as-possible](https://github.com/rajeevranjan20/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1130-last-stone-weight-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1130-last-stone-weight-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/rajeevranjan20/LeetCode/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/rajeevranjan20/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/rajeevranjan20/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0954-maximum-sum-circular-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0974-reorder-data-in-log-files](https://github.com/rajeevranjan20/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1020-longest-turbulent-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1031-add-to-array-form-of-integer](https://github.com/rajeevranjan20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajeevranjan20/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0772-construct-quad-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0954-maximum-sum-circular-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/rajeevranjan20/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajeevranjan20/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rajeevranjan20/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Backtracking
@@ -467,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/rajeevranjan20/LeetCode/tree/master/1558-course-schedule-iv) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
