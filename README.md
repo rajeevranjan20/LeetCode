@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeevranjan20/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2155-find-missing-observations](https://github.com/rajeevranjan20/LeetCode/tree/master/2155-find-missing-observations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rajeevranjan20/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rajeevranjan20/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1748-best-team-with-no-conflicts](https://github.com/rajeevranjan20/LeetCode/tree/master/1748-best-team-with-no-conflicts) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeevranjan20/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajeevranjan20/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2756-buy-two-chocolates](https://github.com/rajeevranjan20/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Trie
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/rajeevranjan20/LeetCode/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeevranjan20/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2487-optimal-partition-of-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2530-minimize-maximum-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [3055-maximum-odd-binary-number](https://github.com/rajeevranjan20/LeetCode/tree/master/3055-maximum-odd-binary-number) |
@@ -502,4 +505,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/rajeevranjan20/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/rajeevranjan20/LeetCode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeevranjan20/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
