@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/rajeevranjan20/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1217-relative-sort-array](https://github.com/rajeevranjan20/LeetCode/tree/master/1217-relative-sort-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajeevranjan20/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/rajeevranjan20/LeetCode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/rajeevranjan20/LeetCode/tree/master/1619-path-crossing) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1117-as-far-from-land-as-possible](https://github.com/rajeevranjan20/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1130-last-stone-weight-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1130-last-stone-weight-ii) |
 | [1137-height-checker](https://github.com/rajeevranjan20/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/rajeevranjan20/LeetCode/tree/master/1217-relative-sort-array) |
 | [1240-stone-game-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/rajeevranjan20/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1380-number-of-closed-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/1380-number-of-closed-islands) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/rajeevranjan20/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0974-reorder-data-in-log-files](https://github.com/rajeevranjan20/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1137-height-checker](https://github.com/rajeevranjan20/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/rajeevranjan20/LeetCode/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rajeevranjan20/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajeevranjan20/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -490,4 +493,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/rajeevranjan20/LeetCode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/rajeevranjan20/LeetCode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
