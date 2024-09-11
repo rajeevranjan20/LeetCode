@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/rajeevranjan20/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/rajeevranjan20/LeetCode/tree/master/0816-design-hashset) |
+| [0838-design-linked-list](https://github.com/rajeevranjan20/LeetCode/tree/master/0838-design-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/rajeevranjan20/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/rajeevranjan20/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/rajeevranjan20/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/rajeevranjan20/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/rajeevranjan20/LeetCode/tree/master/0816-design-hashset) |
+| [0838-design-linked-list](https://github.com/rajeevranjan20/LeetCode/tree/master/0838-design-linked-list) |
 | [1708-design-parking-system](https://github.com/rajeevranjan20/LeetCode/tree/master/1708-design-parking-system) |
 ## Memoization
 |  |
