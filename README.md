@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-best-team-with-no-conflicts](https://github.com/rajeevranjan20/LeetCode/tree/master/1748-best-team-with-no-conflicts) |
 | [2262-solving-questions-with-brainpower](https://github.com/rajeevranjan20/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2530-minimize-maximum-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2562-count-ways-to-build-good-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
