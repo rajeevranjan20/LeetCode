@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/rajeevranjan20/LeetCode/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rajeevranjan20/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2487-optimal-partition-of-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rajeevranjan20/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rajeevranjan20/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/rajeevranjan20/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/rajeevranjan20/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/rajeevranjan20/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rajeevranjan20/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rajeevranjan20/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1748-best-team-with-no-conflicts](https://github.com/rajeevranjan20/LeetCode/tree/master/1748-best-team-with-no-conflicts) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/rajeevranjan20/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajeevranjan20/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rajeevranjan20/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajeevranjan20/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rajeevranjan20/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/rajeevranjan20/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/rajeevranjan20/LeetCode/tree/master/0645-set-mismatch) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajeevranjan20/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rajeevranjan20/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Design
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/rajeevranjan20/LeetCode/tree/master/1708-design-parking-system) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rajeevranjan20/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Hash Function
 |  |
