@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/rajeevranjan20/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1380-number-of-closed-islands](https://github.com/rajeevranjan20/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajeevranjan20/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1435-xor-queries-of-a-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rajeevranjan20/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1547-destination-city](https://github.com/rajeevranjan20/LeetCode/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajeevranjan20/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/rajeevranjan20/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rajeevranjan20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rajeevranjan20/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2530-minimize-maximum-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2530-minimize-maximum-of-array) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rajeevranjan20/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/rajeevranjan20/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/rajeevranjan20/LeetCode/tree/master/0645-set-mismatch) |
+| [1435-xor-queries-of-a-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajeevranjan20/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rajeevranjan20/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
