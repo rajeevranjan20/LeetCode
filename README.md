@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1325-path-with-maximum-probability](https://github.com/rajeevranjan20/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2636-maximum-subsequence-score](https://github.com/rajeevranjan20/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2803-modify-graph-edge-weights](https://github.com/rajeevranjan20/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## String
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/rajeevranjan20/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rajeevranjan20/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2530-minimize-maximum-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2636-maximum-subsequence-score](https://github.com/rajeevranjan20/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rajeevranjan20/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2756-buy-two-chocolates](https://github.com/rajeevranjan20/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rajeevranjan20/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeevranjan20/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajeevranjan20/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2636-maximum-subsequence-score](https://github.com/rajeevranjan20/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2756-buy-two-chocolates](https://github.com/rajeevranjan20/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Trie
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeevranjan20/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2487-optimal-partition-of-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2530-minimize-maximum-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2636-maximum-subsequence-score](https://github.com/rajeevranjan20/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3055-maximum-odd-binary-number](https://github.com/rajeevranjan20/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Stack
 |  |
