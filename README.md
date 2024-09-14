@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/rajeevranjan20/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajeevranjan20/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/rajeevranjan20/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0867-new-21-game](https://github.com/rajeevranjan20/LeetCode/tree/master/0867-new-21-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/rajeevranjan20/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/rajeevranjan20/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/rajeevranjan20/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/rajeevranjan20/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/rajeevranjan20/LeetCode/tree/master/0664-strange-printer) |
+| [0867-new-21-game](https://github.com/rajeevranjan20/LeetCode/tree/master/0867-new-21-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/rajeevranjan20/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1020-longest-turbulent-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/1020-longest-turbulent-subarray) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0867-new-21-game](https://github.com/rajeevranjan20/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/rajeevranjan20/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/rajeevranjan20/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rajeevranjan20/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -575,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rajeevranjan20/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/rajeevranjan20/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
