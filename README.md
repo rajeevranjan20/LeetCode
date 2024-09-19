@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/rajeevranjan20/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/rajeevranjan20/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rajeevranjan20/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/rajeevranjan20/LeetCode/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/rajeevranjan20/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0119-pascals-triangle-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajeevranjan20/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rajeevranjan20/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/rajeevranjan20/LeetCode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/rajeevranjan20/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/rajeevranjan20/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/rajeevranjan20/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/rajeevranjan20/LeetCode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rajeevranjan20/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rajeevranjan20/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rajeevranjan20/LeetCode/tree/master/0392-is-subsequence) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/rajeevranjan20/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1236-n-th-tribonacci-number](https://github.com/rajeevranjan20/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search Tree
 |  |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rajeevranjan20/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rajeevranjan20/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/rajeevranjan20/LeetCode/tree/master/0342-power-of-four) |
 ## Database
 |  |
