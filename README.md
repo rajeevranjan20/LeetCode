@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/rajeevranjan20/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/rajeevranjan20/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/rajeevranjan20/LeetCode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/rajeevranjan20/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajeevranjan20/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rajeevranjan20/LeetCode/tree/master/0389-find-the-difference) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rajeevranjan20/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0816-design-hashset](https://github.com/rajeevranjan20/LeetCode/tree/master/0816-design-hashset) |
 ## Shortest Path
 |  |
@@ -608,4 +610,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/rajeevranjan20/LeetCode/tree/master/0867-new-21-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rajeevranjan20/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rajeevranjan20/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
