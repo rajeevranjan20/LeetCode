@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rajeevranjan20/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rajeevranjan20/LeetCode/tree/master/0389-find-the-difference) |
+| [0432-all-oone-data-structure](https://github.com/rajeevranjan20/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/rajeevranjan20/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rajeevranjan20/LeetCode/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/rajeevranjan20/LeetCode/tree/master/0652-find-duplicate-subtrees) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/rajeevranjan20/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/rajeevranjan20/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/rajeevranjan20/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/rajeevranjan20/LeetCode/tree/master/0816-design-hashset) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/rajeevranjan20/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/rajeevranjan20/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0432-all-oone-data-structure](https://github.com/rajeevranjan20/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/rajeevranjan20/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0816-design-hashset](https://github.com/rajeevranjan20/LeetCode/tree/master/0816-design-hashset) |
@@ -655,4 +658,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/rajeevranjan20/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/rajeevranjan20/LeetCode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
