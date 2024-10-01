@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/rajeevranjan20/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajeevranjan20/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/rajeevranjan20/LeetCode/tree/master/1619-path-crossing) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rajeevranjan20/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/rajeevranjan20/LeetCode/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajeevranjan20/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/rajeevranjan20/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rajeevranjan20/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/rajeevranjan20/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1720-crawler-log-folder](https://github.com/rajeevranjan20/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajeevranjan20/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rajeevranjan20/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/rajeevranjan20/LeetCode/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
