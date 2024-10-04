@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rajeevranjan20/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2487-optimal-partition-of-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2487-optimal-partition-of-string) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/rajeevranjan20/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rajeevranjan20/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/rajeevranjan20/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rajeevranjan20/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2530-minimize-maximum-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/rajeevranjan20/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2636-maximum-subsequence-score](https://github.com/rajeevranjan20/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rajeevranjan20/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeevranjan20/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajeevranjan20/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/rajeevranjan20/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2636-maximum-subsequence-score](https://github.com/rajeevranjan20/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2756-buy-two-chocolates](https://github.com/rajeevranjan20/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Trie
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/rajeevranjan20/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajeevranjan20/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/rajeevranjan20/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Graph
 |  |
 | ------- |
