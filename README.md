@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/rajeevranjan20/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/rajeevranjan20/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/rajeevranjan20/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rajeevranjan20/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rajeevranjan20/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/rajeevranjan20/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajeevranjan20/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1923-sentence-similarity-iii](https://github.com/rajeevranjan20/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rajeevranjan20/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajeevranjan20/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rajeevranjan20/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/rajeevranjan20/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/rajeevranjan20/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/rajeevranjan20/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/rajeevranjan20/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/rajeevranjan20/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajeevranjan20/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
