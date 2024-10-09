@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/rajeevranjan20/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajeevranjan20/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rajeevranjan20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/rajeevranjan20/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0974-reorder-data-in-log-files](https://github.com/rajeevranjan20/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1044-find-common-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1044-find-common-characters) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/rajeevranjan20/LeetCode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/rajeevranjan20/LeetCode/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/rajeevranjan20/LeetCode/tree/master/0649-dota2-senate) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rajeevranjan20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rajeevranjan20/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeevranjan20/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/rajeevranjan20/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajeevranjan20/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/rajeevranjan20/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rajeevranjan20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/rajeevranjan20/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/rajeevranjan20/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1666-make-the-string-great](https://github.com/rajeevranjan20/LeetCode/tree/master/1666-make-the-string-great) |
