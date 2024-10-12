@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1325-path-with-maximum-probability](https://github.com/rajeevranjan20/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rajeevranjan20/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rajeevranjan20/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2636-maximum-subsequence-score](https://github.com/rajeevranjan20/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2803-modify-graph-edge-weights](https://github.com/rajeevranjan20/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## String
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/rajeevranjan20/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rajeevranjan20/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/rajeevranjan20/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rajeevranjan20/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rajeevranjan20/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2530-minimize-maximum-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2530-minimize-maximum-of-array) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/rajeevranjan20/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rajeevranjan20/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rajeevranjan20/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 ## Sorting
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/rajeevranjan20/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeevranjan20/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajeevranjan20/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rajeevranjan20/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rajeevranjan20/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2636-maximum-subsequence-score](https://github.com/rajeevranjan20/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2756-buy-two-chocolates](https://github.com/rajeevranjan20/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rajeevranjan20/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeevranjan20/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2487-optimal-partition-of-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2487-optimal-partition-of-string) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rajeevranjan20/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2636-maximum-subsequence-score](https://github.com/rajeevranjan20/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3055-maximum-odd-binary-number](https://github.com/rajeevranjan20/LeetCode/tree/master/3055-maximum-odd-binary-number) |
@@ -468,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/rajeevranjan20/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajeevranjan20/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rajeevranjan20/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rajeevranjan20/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Graph
 |  |
