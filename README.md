@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rajeevranjan20/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1197-parsing-a-boolean-expression](https://github.com/rajeevranjan20/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/rajeevranjan20/LeetCode/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/rajeevranjan20/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rajeevranjan20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/rajeevranjan20/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/rajeevranjan20/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/rajeevranjan20/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/rajeevranjan20/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1666-make-the-string-great](https://github.com/rajeevranjan20/LeetCode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/rajeevranjan20/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rajeevranjan20/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajeevranjan20/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/rajeevranjan20/LeetCode/tree/master/0342-power-of-four) |
+| [1197-parsing-a-boolean-expression](https://github.com/rajeevranjan20/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rajeevranjan20/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Database
 |  |
