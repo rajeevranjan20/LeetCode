@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/rajeevranjan20/LeetCode/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/rajeevranjan20/LeetCode/tree/master/0664-strange-printer) |
 | [0721-accounts-merge](https://github.com/rajeevranjan20/LeetCode/tree/master/0721-accounts-merge) |
+| [0812-rotate-string](https://github.com/rajeevranjan20/LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/rajeevranjan20/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajeevranjan20/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rajeevranjan20/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rajeevranjan20/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/rajeevranjan20/LeetCode/tree/master/0812-rotate-string) |
 ## Segment Tree
 |  |
 | ------- |
