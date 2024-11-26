@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/rajeevranjan20/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/rajeevranjan20/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2803-modify-graph-edge-weights](https://github.com/rajeevranjan20/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+| [3189-find-champion-ii](https://github.com/rajeevranjan20/LeetCode/tree/master/3189-find-champion-ii) |
 ## Game Theory
 |  |
 | ------- |
