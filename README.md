@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/rajeevranjan20/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajeevranjan20/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajeevranjan20/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rajeevranjan20/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/rajeevranjan20/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/rajeevranjan20/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rajeevranjan20/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajeevranjan20/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rajeevranjan20/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rajeevranjan20/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/rajeevranjan20/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rajeevranjan20/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajeevranjan20/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2530-minimize-maximum-of-array](https://github.com/rajeevranjan20/LeetCode/tree/master/2530-minimize-maximum-of-array) |
