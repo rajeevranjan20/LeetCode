@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rajeevranjan20/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rajeevranjan20/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/rajeevranjan20/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/rajeevranjan20/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2803-modify-graph-edge-weights](https://github.com/rajeevranjan20/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## String
 |  |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rajeevranjan20/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/rajeevranjan20/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajeevranjan20/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/rajeevranjan20/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rajeevranjan20/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/rajeevranjan20/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/rajeevranjan20/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2411-spiral-matrix-iv](https://github.com/rajeevranjan20/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/rajeevranjan20/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/rajeevranjan20/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rajeevranjan20/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
 |  |
